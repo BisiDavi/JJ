@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bisidavi.github.io/JJ/static/css/main.6bd67ee6.chunk.css",
+    "main.js": "/bisidavi.github.io/JJ/static/js/main.d757e403.chunk.js",
+    "main.js.map": "/bisidavi.github.io/JJ/static/js/main.d757e403.chunk.js.map",
+    "runtime-main.js": "/bisidavi.github.io/JJ/static/js/runtime-main.01e73de7.js",
+    "runtime-main.js.map": "/bisidavi.github.io/JJ/static/js/runtime-main.01e73de7.js.map",
+    "static/js/2.76895bc2.chunk.js": "/bisidavi.github.io/JJ/static/js/2.76895bc2.chunk.js",
+    "static/js/2.76895bc2.chunk.js.map": "/bisidavi.github.io/JJ/static/js/2.76895bc2.chunk.js.map",
+    "index.html": "/bisidavi.github.io/JJ/index.html",
+    "precache-manifest.b472f4ff1267134b87d087b0837ab100.js": "/bisidavi.github.io/JJ/precache-manifest.b472f4ff1267134b87d087b0837ab100.js",
+    "service-worker.js": "/bisidavi.github.io/JJ/service-worker.js",
+    "static/css/main.6bd67ee6.chunk.css.map": "/bisidavi.github.io/JJ/static/css/main.6bd67ee6.chunk.css.map",
+    "static/js/2.76895bc2.chunk.js.LICENSE.txt": "/bisidavi.github.io/JJ/static/js/2.76895bc2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01e73de7.js",
+    "static/js/2.76895bc2.chunk.js",
+    "static/css/main.6bd67ee6.chunk.css",
+    "static/js/main.d757e403.chunk.js"
+  ]
+}
