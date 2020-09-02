@@ -1,0 +1,22 @@
+.Sidebar {
+  width: 40vh;
+  background: rgba(225, 225, 225, 0.2);
+  font-size: 14px;
+  height: 430px;
+  margin: 10px 20px 0px 35px;
+  /* position: fixed; */
+  z-index: 1;
+}
+
+.Sidebar ul li {
+  list-style: none;
+  padding: 10px;
+  font-weight: 500;
+  color: green;
+  font-family: inherit;
+  cursor: pointer;
+}
+
+.Sidebar ul li ul {
+  display: none;
+}

@@ -1,0 +1,22 @@
+.Footer{
+    display: grid;
+    background-color: #3db83a;
+    padding: 0px 50px 0px 0px;
+    color: white;
+    grid-template-columns: repeat(5, 1fr);
+}
+
+.Footer li{
+    list-style: none;
+    padding: 10px;
+}
+
+.Footer a {
+    text-decoration:none;
+    cursor: pointer;
+    color: white;
+}
+
+.Footer a:hover{
+    color: rgba(240, 235, 235, 0.8);
+}
